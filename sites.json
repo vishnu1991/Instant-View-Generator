@@ -4,5 +4,10 @@
   {"domain": "digitalmarketer.com", "rhash": "496355802f85a7"}, 
   {"domain": "economictimes.indiatimes.com", "rhash": "d4a6984d4864cd"}, 
   {"domain": "hotjar.com", "rhash": "cf4176cf115d6e"}, 
-  {"domain": "marketingovercoffee.com", "rhash": "4255c256164ceb"}
+  {"domain": "marketingovercoffee.com", "rhash": "4255c256164ceb"},
+  {"domain": "seerinteractive.com", "rhash": "6075f2ff8d39a6"},
+  {"domain": "semrush.com", "rhash": "3824d137652991"},
+  {"domain": "singlegrain.com", "rhash": "c1b2a5f8ee2a46"},
+  {"domain": "stablewp.com", "rhash": "8b622c6107f5e3"},
+  {"domain": "woorise.com", "rhash": "bd5c4052dd5de2"} 
 ]
