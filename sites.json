@@ -1,9 +1,8 @@
 [ 
-  {"domain": "cloudways.com", rhash: "6c4e6ffb646caa"}, 
-  {"domain": "contently.com", rhash: "58418ae79f3117"}, 
-  {"domain": "digitalmarketer.com", rhash: "496355802f85a7"}, 
-  {"domain": "economictimes.indiatimes.com", rhash: "d4a6984d4864cd"}, 
-  {"domain": "hotjar.com", rhash: "cf4176cf115d6e"}, 
-  {"domain": "marketingovercoffee.com", rhash: "4255c256164ceb"}
+  {"domain": "cloudways.com", "rhash": "6c4e6ffb646caa"}, 
+  {"domain": "contently.com", "rhash": "58418ae79f3117"}, 
+  {"domain": "digitalmarketer.com", "rhash": "496355802f85a7"}, 
+  {"domain": "economictimes.indiatimes.com", "rhash": "d4a6984d4864cd"}, 
+  {"domain": "hotjar.com", "rhash": "cf4176cf115d6e"}, 
+  {"domain": "marketingovercoffee.com", "rhash": "4255c256164ceb"}
 ]
-  
